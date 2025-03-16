@@ -7,3 +7,4 @@
 
 | Category | Name                                                  | Objective   | Difficulty [⭐⭐⭐⭐⭐] |
 | -------- | ----------------------------------------------------- | ------------------------------------------------------------- | ----------------------- |
+| **ics** | [Shush Protocol](ics/Shush%20Protocol%20[Very%20Easy])| Finding flag in packets| ⭐|
