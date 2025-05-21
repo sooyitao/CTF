@@ -13,3 +13,4 @@
 | **Hardware** | [Debug](Hardware/Debug%20[Easy])| Basic source code analysis| ⭐⭐|
 | **Web** | [Jailbreak](Web/Jailbreak%20[Very%20Easy]/)| XXE vulnerability | ⭐|
 | **Web** | [TimeKORP](Web/TimeKORP%20[Very%20Easy]/)| Command Injection | ⭐|
+| **Web** | [Flag Command ](Web/Flag%20Command%20[Very%20Easy]/)| Basic javascript code analysis | ⭐|
