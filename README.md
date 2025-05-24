@@ -15,3 +15,4 @@
 | **Web** | [TimeKORP](Web/TimeKORP%20[Very%20Easy]/)| Command Injection | ⭐|
 | **Web** | [Flag Command](Web/Flag%20Command%20[Very%20Easy]/)| Basic javascript code analysis | ⭐|
 | **Web** | [Labyrinth Linguist](Web/Labyrinth%20Linguist%20[Easy]/)| SSTI  | ⭐⭐|
+| **Web** | [Guild](Web/Guild%20[Easy}/)| SSTI  | ⭐⭐|
