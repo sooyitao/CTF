@@ -18,3 +18,4 @@
 | **Web** | [Guild](Web/Guild%20[Easy}/)| SSTI  | ⭐⭐|
 | **Forensics** | [An unusual sighting](Forensics/An%20Unusual%20Sighting%20[Very%20Easy]/)| Log file analysis  | ⭐|
 | **Forensics** | [Silicon Data Sleuthing](Forensics/Silicon%20Data%20Sleuthing%20[Easy]/)| Firmware Image analysis  | ⭐⭐|
+| **Misc** | [Character](Misc/Character%20[Very%20Easy]/README.md)| Scripting  | ⭐|
