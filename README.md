@@ -6,8 +6,8 @@ This repository contains my writeups and scripts for various Capture The Flag (C
 
 | CTF Event                                                                 | Format          | Status       | Challenges Solved | Rank / Teams      | Start Date | End Date   |
 |---------------------------------------------------------------------------|------------------|--------------|-------------------|-------------------|------------|------------|
-| [GPN CTF 2025](https://gpn23.ctf.kitctf.de/)                              | Online (timed)   | Completed    | 4                 | 201 / ~1000 teams | 2025-06-20 | 2025-06-22 |
-| [Hack The Box CTF Try Out](https://ctf.hackthebox.com/event/details/ctf-try-out-1434) | Online (anytime) | In Progress  | Ongoing           | N/A               | Anytime    | Anytime    |
+| [GPN CTF 2025](GPN-CTF)                              | Online (timed)   | Completed    | 4                 | 201 / ~1000 teams | 2025-06-20 | 2025-06-22 |
+| [Hack The Box CTF Try Out](HTB-CTF) | Online (anytime) | In Progress  | Ongoing           | N/A               | Anytime    | Anytime    |
 
 Each challenge folder contains:
 - `README.md` – writeup with steps taken
