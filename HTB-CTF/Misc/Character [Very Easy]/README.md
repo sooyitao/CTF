@@ -16,5 +16,5 @@ Security through Induced Boredom is a personal favourite approach of mine. Not a
 
 ## Steps Taken
 1. Connected to a remote service using IP and port via nc and Python sockets.
-2. Built a [script](/Misc/Character%20[Very%20Easy]/script.py) to request individual characters of the flag by index.
+2. Built a [script](script.py) to request individual characters of the flag by index.
 3. Handled server responses and extracted character information.

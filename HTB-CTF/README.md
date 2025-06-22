@@ -18,7 +18,7 @@
 | **Web** | [Guild](Web/Guild%20[Easy}/)| SSTI  | ⭐⭐|
 | **Forensics** | [An unusual sighting](Forensics/An%20Unusual%20Sighting%20[Very%20Easy]/)| Log file analysis  | ⭐|
 | **Forensics** | [Silicon Data Sleuthing](Forensics/Silicon%20Data%20Sleuthing%20[Easy]/)| Firmware Image analysis  | ⭐⭐|
-| **Misc** | [Character](Misc/Character%20[Very%20Easy]/README.md)| Scripting  | ⭐|
-| **Misc** | [Stop Drop and Roll](Misc/Stop%20Drop%20and%20Roll%20[Very%20Easy]/README.md)| Scripting  | ⭐|
-| **Misc** | [Chrono Mind](Misc/Chrono%20Mind%20[Easy]/README.md)| LM context injection  | ⭐⭐|
-| **Pwn** | [Regularity](pwn/Regularity%20[Very%20Easy]/README.md)|   Stack buffer overflow | ⭐|
+| **Misc** | [Character](Misc/Character%20[Very%20Easy])| Scripting  | ⭐|
+| **Misc** | [Stop Drop and Roll](Misc/Stop%20Drop%20and%20Roll%20[Very%20Easy])| Scripting  | ⭐|
+| **Misc** | [Chrono Mind](Misc/Chrono%20Mind%20[Easy])| LM context injection  | ⭐⭐|
+| **Pwn** | [Regularity](Pwn/Regularity%20[Very%20Easy])|   Stack buffer overflow | ⭐|

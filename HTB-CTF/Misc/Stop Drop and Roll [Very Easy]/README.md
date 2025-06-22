@@ -18,6 +18,6 @@ The Fray: The Video Game is one of the greatest hits of the last... well, we don
 ## Steps Taken
 1. Connected to the remote service using nc to understand input/output format.
 2. Analyzed challenge instructions to map each keyword to the correct response.
-3. Wrote a Python [script](/Misc/Stop%20Drop%20and%20Roll%20[Very%20Easy]/script.py) using pwntools to automate connection and interaction.
+3. Wrote a Python [script](script.py) using pwntools to automate connection and interaction.
 4. Captured the scenarios and mapped each to its corresponding action using a dictionary.
 5. Joined the mapped actions in the correct format and sent the result back.
