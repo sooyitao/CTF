@@ -1,4 +1,4 @@
-# Intro to web (<font color=green> </font>)
+# Intro to web (<font color=green> Introduction </font>)
 
 
 ## Description
@@ -48,3 +48,6 @@
 2. To gain moderator, we just have to set user role as `admin` seen from the `is_mod()` function. Since we have the flask key, we can forge a cookie with `admin` as user role using this [script](forge.py).
 3. Replace session cookie with the forged cookie and go to `/moderator` and the flag will be in a note titled `My juicy note`
 ### Flag 3
+1. Examining the `report_note.html`, we found a vulnability at `<p>Report reason: {{ note.reason|safe }}</p>`. This allows us to do XSS by inputting a script into report.
+2. However we are unable to get the cookie as document.cookie came out empty. We also tried to capture any post request using `ngrok` but got nothing.
+3. Unfortunately we were unable to solve this and moved on to other challenges. :(

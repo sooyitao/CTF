@@ -7,11 +7,15 @@ C'mon take a hint, you want to play that.
 
 ## Tools Used
 
-- 
+- Python
+- RSA decryption logic
 
 ## Skills Learned
 
-- 
+- Exploiting partial leakage in RSA
+- Base conversions (especially base-7)
+- Implementing efficient backtracking algorithms for number reconstruction
+
 
 ## Steps Taken
 ### 1. Problem Analysis  
