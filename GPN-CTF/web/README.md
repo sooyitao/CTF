@@ -7,11 +7,15 @@
 
 ## Tools Used
 
-- 
+- Browser DevTools (Inspect Element, Network tab)
+- Python (requests, itsdangerous for cookie forging)
+- Base64 decoder
 
 ## Skills Learned
 
-- 
+- Directory traversal to access hidden files
+- Forging Flask session cookies with known secret key
+- XSS injection and sandbox evasion
 
 ## Steps Taken
 ### Flag 1
