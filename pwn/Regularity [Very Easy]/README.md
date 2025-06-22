@@ -51,7 +51,7 @@ Nothing much changes from day to day. Famine, conflict, hatred - it's all part a
 - Reads 272 bytes into a 256-byte buffer on the stack → classic stack buffer overflow.
 ### Step 3: Find a jmp rsi Gadget
 - We want the program to jump to our shellcode. The input buffer will be pointed to by rsi, so we look for `jmp rsi` gadget using ROPgadget.
-### Step 4: Build the [Exploit](\exploit.py) Payload
+### Step 4: Build the [Exploit](exploit.py) Payload
 - We inject shellcode that spawns a shell (/bin/sh), pad to 256 bytes, then overwrite RIP with the gadget address. 
     ```python
     from pwn import *
