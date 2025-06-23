@@ -22,3 +22,4 @@
 | **Misc** | [Stop Drop and Roll](Misc/Stop%20Drop%20and%20Roll%20[Very%20Easy])| Scripting  | ⭐|
 | **Misc** | [Chrono Mind](Misc/Chrono%20Mind%20[Easy])| LM context injection  | ⭐⭐|
 | **Pwn** | [Regularity](Pwn/Regularity%20[Very%20Easy])|   Stack buffer overflow | ⭐|
+| **Pwn** | [Getting Started ](Pwn/Getting%20Started%20[Very%20Easy]/)|   Stack buffer overflow | ⭐|
