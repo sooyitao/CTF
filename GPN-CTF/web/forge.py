@@ -2,7 +2,7 @@ import hashlib
 from itsdangerous import URLSafeTimedSerializer
 from flask.sessions import TaggedJSONSerializer
 
-secret_key = "e6e3ac226ff50353a7697e55fe64b3229b874dde98731c2b6a89fe4cb7df8d9af49ca413b3c2edb4cbd9dc2521152327b110" # flask key
+secret_key = "<FLASK_SECRET_KEY>"
 
 # Create a session serializer
 serializer = TaggedJSONSerializer()
