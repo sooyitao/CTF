@@ -23,3 +23,4 @@
 | **Misc** | [Chrono Mind](Misc/Chrono%20Mind%20[Easy])| LM context injection  | ⭐⭐|
 | **Pwn** | [Regularity](Pwn/Regularity%20[Very%20Easy])|   Stack buffer overflow | ⭐|
 | **Pwn** | [Getting Started ](Pwn/Getting%20Started%20[Very%20Easy]/)|   Stack buffer overflow | ⭐|
+| **Crypto** | [Dynastic](Crypto/Dynastic%20[Very%20Easy]/)| Caesar Cipher Decryption | ⭐|
