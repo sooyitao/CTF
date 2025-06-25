@@ -25,3 +25,4 @@
 | **Pwn** | [Getting Started ](Pwn/Getting%20Started%20[Very%20Easy]/)|   Stack buffer overflow | ⭐|
 | **Crypto** | [Dynastic](Crypto/Dynastic%20[Very%20Easy]/)| Caesar Cipher Decryption | ⭐|
 | **Coding** | [Dynamic Paths](Coding/Dynamic%20Paths%20[Easy]/)| Caesar Cipher Decryption | ⭐⭐|
+| **Reversing** | [FlagCasino](/Reversing/FlagCasino%20[Very%20Easy]/)| PRNG | ⭐|
