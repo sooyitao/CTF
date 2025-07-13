@@ -15,7 +15,7 @@ import requests
 
 url = "https://94.237.54.192:48717/api/tickets"
 headers = {
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI4ZDY0OTcyNC04NWJhLTQzOTUtYTgyOS1iNTQ5YzMyZTdiYzYiLCJ1c2VybmFtZSI6ImFkbWluMSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc1MTExNzM5NywiZXhwIjoxNzUxMTQ2MTk3fQ.Zeh1zkIAB78q66o2f_vzDa_BdRD7f2zClgub2etGENg"
+    "Authorization": "Bearer {token}"
 }
 
 r = requests.get(url, headers=headers, verify=False)
